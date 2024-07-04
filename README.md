@@ -1,5 +1,3 @@
-Here's a suggested README file for the DSA Path Visualizer repository:
-
 ---
 
 # DSA Path Visualizer
