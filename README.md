@@ -3,7 +3,7 @@
 # DSA Path Visualizer
 
 ## Description
-DSA Path Visualizer is a web-based application that visualizes various pathfinding algorithms. The application allows users to interactively see how algorithms like A*, Dijkstra's, and others find paths on a grid. This tool is useful for educational purposes and helps in understanding the intricacies of these algorithms.
+DSA Path Visualizer is a web-based application that visualizes various pathfinding algorithms. The application allows users to interactively see how algorithms like BFS, DFS, Dijkstra's, and others find paths on a grid. This tool is useful for educational purposes and helps in understanding the intricacies of these algorithms.
 
 ## Features
 - Visualize different pathfinding algorithms
